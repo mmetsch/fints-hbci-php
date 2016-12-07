@@ -951,7 +951,7 @@ This library is verified to work with following banks.
 - [ ] Sparkasse Regensburg
 - [ ] Sparkasse Remscheid 
 - [ ] Sparkasse Rhein-Haardt
-- [ ] Sparkasse Rhein-Nahe 
+- [x] Sparkasse Rhein-Nahe 
 - [ ] Sparkasse Rhein-Neckar-Nord (Mannheim/Weinheim)
 - [ ] Sparkasse Rietberg
 - [ ] Sparkasse Riezlern
